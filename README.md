@@ -13,3 +13,5 @@
 7) Cousins in Binary Tree
 
 8) Check if it is a straight line
+
+9) Valid Perfect Square
